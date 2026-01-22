@@ -1,0 +1,110 @@
+[
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_01.webp",
+    "name": "Chill Creator 1",
+    "jobs": 3,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_02.webp",
+    "name": "Egypt Creator 1",
+    "jobs": 2,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_03.webp",
+    "name": "Cool Ape 1",
+    "jobs": 15,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_04.webp",
+    "name": "Angry Ape 1",
+    "jobs": 5,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_05.webp",
+    "name": "Christmas Creator 1",
+    "jobs": 1,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_06.webp",
+    "name": "Space Ape 1",
+    "jobs": 999,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_01.webp",
+    "name": "Chill Creator 2",
+    "jobs": 3,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_02.webp",
+    "name": "Egypt Creator 2",
+    "jobs": 2,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_03.webp",
+    "name": "Cool Ape 2",
+    "jobs": 15,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_04.webp",
+    "name": "Angry Ape 2",
+    "jobs": 5,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_05.webp",
+    "name": "Christmas Creator 2",
+    "jobs": 1,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_06.webp",
+    "name": "Space Ape 2",
+    "jobs": 999,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_01.webp",
+    "name": "Chill Creator 3",
+    "jobs": 3,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_02.webp",
+    "name": "Egypt Creator 3",
+    "jobs": 2,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_03.webp",
+    "name": "Cool Ape 3",
+    "jobs": 15,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_04.webp",
+    "name": "Angry Ape 3",
+    "jobs": 5,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_05.webp",
+    "name": "Christmas Creator 3",
+    "jobs": 1,
+    "href": ""
+  },
+  {
+    "imagePath": "https://raw.githubusercontent.com/legerakun/landing/refs/heads/main/public/images-creators/creator_06.webp",
+    "name": "Space Ape 3",
+    "jobs": 999,
+    "href": ""
+  }
+]
